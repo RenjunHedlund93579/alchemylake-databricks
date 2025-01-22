@@ -1,0 +1,5 @@
+[project]
+name = "alchemylake-databricks"
+version = "0.1.0"
+description = "Governed, provenance-sealed creative rendering for Databricks — a Streamlit App + Unity Catalog ai_render() function that turns any governed source (Sample Lakehouse, UC, Genie, or BYO data) into infographics, reports, decks, video briefings, music, and podcasts."
+requires-python = ">=3.10"
