@@ -26,3 +26,4 @@
 - fix: add a note about the defaults
 - docs: fix a small wording issue
 - fix: fix a small wording issue
+- chore: clarify the setup steps
